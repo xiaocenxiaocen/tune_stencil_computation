@@ -1,0 +1,5 @@
+# CUDA_PROFILE_LOG_VERSION 2.0
+# CUDA_DEVICE 0 Tesla M2090
+# CUDA_CONTEXT 2
+# TIMESTAMPFACTOR 14ec556fce43a55f
+method,gputime,cputime,occupancy
